@@ -2,7 +2,7 @@ This is a showcase of AI-generated art projects, exploring the intersection of c
 
 ## Projects
 
-- [Skulptor Space](./project-01-skulptor-space): a collection of Generative / NLP / Visualizartions and Data Sets created using AI techniques, blending natural forms with algorithmic design 2020-204.
+- [Skulptor Space](./project-01-skulptor-space): a collection of Generative / NLP / Visualizartions and Data Sets created using AI techniques, blending natural forms with algorithmic design 2020-2024.
 - [Data Sonification](./project-02-data-sonification): data sonification project for Manifest Audio (Sonar Festival 2024).
 - [Creative Coding](./project-03-creative-coding): creative coding projects for workshops, music festivals, teaching, and freelance clients.
 - [Digital Fashion](./project-04-digital-fashion): digital fashion projects
